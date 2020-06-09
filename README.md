@@ -1,3 +1,3 @@
 # Getting started with Python
 
-Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991.I have created this repository to support beginners to get started in Python.
+_This repository would help you get started with Python.It contains a sets of Jupyter notebooks which consist of sample code and notes on various concepts of Python._
