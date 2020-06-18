@@ -1,3 +1,10 @@
+"""
+Program: To find whether a number is prime or not.
+Author: Advaith
+
+n-stores the number
+c-stores the no: of factors
+"""
 n=(int)(input("Enter the number "))
 c=0
 for i in range(1,n+1):

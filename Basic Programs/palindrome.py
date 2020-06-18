@@ -1,3 +1,10 @@
+"""
+Program: To find whether a number is palindrome or not.
+Author: Advaith
+
+n-stores the number
+r-stores the reverse of the number
+"""
 n=int(input("Enter the number "))
 i,r=n,0
 while(i>0):
