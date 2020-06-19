@@ -1,5 +1,6 @@
 """
 Program: To find whether a number is palindrome or not.
+Eg: 121 is a plaindrome number
 Author: Advaith
 
 n-stores the number
